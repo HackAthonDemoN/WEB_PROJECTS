@@ -1,0 +1,7 @@
+1. Install XAMPP for local hosting and testing .
+2. Copy the folder to htdocs folder in XAMPP .
+3. Create a database named php forum .
+4. Create 2 tables users and topics .
+5. Table Structure topics.png and users.png
+6. Now you are good to go .
+NOTE: Can be performed in wamp too .
